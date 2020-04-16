@@ -18,7 +18,7 @@ INSTALL_REQUIRES = [
     "numpy==1.17.2",
     "opencv-python==4.1.1.26",
     "packaging==20.0",
-    "psutil==5.6.3",
+    "psutil==5.7.0",
     "pygithub==1.43.8",
     "pytesseract==0.3.0",
     "pytest==5.1.2",
