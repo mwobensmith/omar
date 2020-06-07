@@ -5,7 +5,7 @@ verify_ssl = true
 
 [packages]
 coloredlogs = "==10.0"
-image = "==1.5.27"
+#image = "==1.5.27"
 omar = {path = ".",editable = true}
 funcy = "==1.13"
 gitpython = "==3.0.5"
